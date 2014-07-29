@@ -1,4 +1,4 @@
-xblog_论文.pdf			               //毕业设计论文
+xblog_论文.pdf       毕业设计论文
 
 xblog3.1_eclipse项目文件夹.zip     //毕业设计源码
 
