@@ -10,3 +10,5 @@ xblog3.1.war
 Source_UDP_Talk_Software_1.0.zip  ------- java UDP通信程序源码
 UDP_Talk_Software_1.0.jar         ------- java UDP通信程序
 
+assembly_code  写的汇编代码
+
